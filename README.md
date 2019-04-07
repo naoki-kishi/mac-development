@@ -168,6 +168,17 @@ open /Applications/Docker.app
 brew install mysql --client-only
 ```
 
+### direnv
+1. インストール
+```bash
+brew install direnv
+```
+
+2. 設定を追記
+```bash
+echo 'eval "$(direnv hook bash)"' >> ~/.zshrc
+```
+
 ## 言語
 
 ### Golang
