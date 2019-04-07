@@ -145,6 +145,18 @@ ssh github
 [Macで快適な作業環境を構築する(zsh編)](https://qiita.com/ucan-lab/items/1794940a64882021dcb1)
 
 ### Docker
+1. インストール
+```bash
+brew install docker
+brew cask install docker
+```
+
+2. Dockerの起動
+```bash
+open /Applications/Docker.app
+```
+
+[DockerをHomebrewでMac OSに導入する方法](https://qiita.com/sitmk/items/ed753f6b2eb9960845f7)
 
 ### MySQL
 1. インストール
