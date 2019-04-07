@@ -34,7 +34,7 @@ killall Finder
 ### VS Code
 1. インストール
 ```bash
-brew  cask install visual-studio-code
+brew cask install visual-studio-code
 ```
 
 2. 設定のリストア
@@ -49,7 +49,7 @@ cd dotfiles
 
 ### Goland
 1. インストール
-[GoLandのインストールと起動 #](https://pleiades.io/help/go/install-and-set-up-product.html)
+[GoLandのインストールと起動](https://pleiades.io/help/go/install-and-set-up-product.html)
 
 2. テーマの設定
 [One Dark PyCharm theme](https://github.com/yurtaev/idea-one-dark-theme)
@@ -63,7 +63,11 @@ cd dotfiles
 ## 開発環境
 
 ### dotfiles
+
+[naoki-kishi/dotfiles](https://github.com/naoki-kishi/dotfiles)
+
 [なるべく簡単にMacの環境構築を復元を目指す](https://qiita.com/mkazutaka/items/46b96b0e60c447636e1e)
+
 [最強の dotfiles 駆動開発と GitHub で管理する運用方法](https://qiita.com/b4b4r07/items/b70178e021bef12cd4a2)
 
 ### Homebrew
